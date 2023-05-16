@@ -1,3 +1,3 @@
 # encriptador
 
-terminado
+mejorando
